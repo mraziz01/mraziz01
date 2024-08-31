@@ -1,77 +1,86 @@
-# 👋 Hi, I'm Mohammad Aziz Ur Rahman!
+### <h1 align="center"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" /> Hi <𝚍𝚎𝚟𝚜/>, I'm Mohammad Aziz Ur Rahman</h1>
 
-![Developer GIF](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
+<h3 align="center">A Full Stack Developer with a Passion for Problem Solving and Learning New Technologies</h3>
 
-### 🌟 Full Stack Developer | Frontend Enthusiast | Backend Explorer
+<h3 align="center">Creating Robust Frontend Designs and Scalable Backend Solutions</h3>
+<br />
 
-I'm a passionate Full Stack Developer with a keen eye for designing intuitive and user-friendly interfaces. I specialize in both frontend and backend development, ensuring the seamless delivery of responsive and efficient web applications.
+- 🔭 I’m currently working on building and enhancing full stack web applications.
+  
+- 🌱 I’m constantly learning and exploring new technologies, especially in backend development.
+  
+- ⚙️ I have expertise in creating responsive and dynamic web interfaces using modern frontend technologies.
+  
+- 👯 I’m open to collaborating on open-source projects and innovative ideas.
 
----
+<br/>
 
-## 🛠️ Technologies & Skills
+**Interests** 🤩<br>
 
-- **Frontend**:  
-  ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white) 
-  ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white) 
-  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white) 
-  ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white) 
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) 
-  ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)  
+- Full Stack Development 🚀
+- Problem Solving with DSA 📚
+- Frontend Design and Aesthetics 🎨
+- Backend Development and APIs 🔧
 
-- **Backend**:  
-  ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white) 
-  ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white) 
-  ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white) 
-  ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)  
-  ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)  
+<br/>
 
-- **Programming Languages**:  
-  ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white) 
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+## Connect with me  
+<div align="center">
+<a href="https://github.com/mraziz01/" target="_blank">
+<img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="margin-bottom: 5px;" />
+</a>
+<a href="www.linkedin.com/in/md-aziz-ur-rahman" target="_blank">
+<img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin-bottom: 5px;" />
+</a>
+<a href="mailto:mraziz8341@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" style="margin-bottom: 5px;" />
+</a>
+</div>
+<br/>
 
-- **Version Control**:  
-  ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+<hr />
 
----
+## My Skill Set  
+<table><tr><td valign="top" width="33%">
 
-## 🚀 What I Do
+### Frontend  
+<div align="center">  
+  <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
+  <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>
+  <a href="https://getbootstrap.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
+  <a href="https://tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss-icon.svg" alt="Tailwind CSS" height="50" /></a>
+<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
+<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
+<a href="https://git-scm.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
+</div>
 
-![Coding GIF](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
+</td><td valign="top" width="33%">
 
-- **Frontend Development**: Crafting beautiful and responsive user interfaces using HTML, CSS, JavaScript, Bootstrap, Tailwind, and React.
-- **Backend Development**: Building robust backend systems with Node.js, Express.js, PHP, Laravel, and MySQL.
-- **Data Structures & Algorithms**: Strong understanding and implementation of Java-based DSA concepts to solve complex problems.
+### Backend  
+<div align="center">  
+<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
+<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>  
+<a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" /></a>  
+<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
+<a href="https://laravel.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/laravel-plain-wordmark.svg" alt="Laravel" height="50" /></a>  
+<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
+</div>
 
----
+</td><td valign="top" width="33%">
 
-## 🌱 I'm Currently Learning
+### Programming language  
+<div align="center">  
+<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
+</div>
 
-![Learning GIF](https://media.giphy.com/media/l46Cy1rHbQ92uuLXa/giphy.gif)
+</td></tr></table>  
 
-- **Advanced React**: Diving deeper into hooks, context API, and building scalable React applications.
-- **Cloud Computing**: Exploring AWS and cloud-native development practices.
+<br/>  
 
----
+## My Skills Overview
 
-## 🎯 Goals
+- **Frontend Development**: 80%
+- **Backend Development**: 60%
+- **Java & DSA**: Intermediate Level
 
-![Goals GIF](https://media.giphy.com/media/26FPCXdkvDbKBbgOI/giphy.gif)
-
-- **Short Term**: Enhance my backend expertise by mastering Laravel and diving deeper into microservices.
-- **Long Term**: Transition into a DevOps role and contribute to open-source projects.
-
----
-
-## 🤝 Let's Connect
-
-![Handshake GIF](https://media.giphy.com/media/3og0IJHMq8cB5lR81e/giphy.gif)
-
-- **GitHub**: [github.com/yourusername](https://github.com/yourusername)
-- **LinkedIn**: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-- **Email**: your.email@example.com
-
----
-
-![Coding Cartoon GIF](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
-
-**Thank you for visiting my profile! Let's create something amazing together.**
+<br/>
